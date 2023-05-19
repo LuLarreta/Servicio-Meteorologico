@@ -1,0 +1,38 @@
+/*https://coolors.co/8acdea-ffc0be-25291c-ffd166-59cd90 */
+
+.bg-pagina {
+    background-color: #FFC0BE;
+}
+
+.bg-card {
+    background-color: #8ACDEA;
+  
+}
+
+.icono {
+    max-width: 100px;
+}
+.iconochico {
+    max-width: 30px;
+}
+
+.bg-amarillo {
+  background-color:  #FFD166;
+} 
+.m-auto {
+    margin: auto;
+}
+
+.ancho {
+    width: 70%;
+}
+
+#fondo {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.borde-card {
+    border-bottom: 1px solid #25291C;
+   
+}
